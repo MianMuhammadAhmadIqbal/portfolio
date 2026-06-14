@@ -2,8 +2,8 @@ import { useState } from "react";
 import logo from "../assets/logo2.jpg";
 import { FaLinkedin, FaGithub, FaWhatsapp } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
-import { FiMenu } from "react-icons/fi"; 
-import { IoClose } from "react-icons/io5"; 
+import { FiMenu } from "react-icons/fi";
+import { IoClose } from "react-icons/io5";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -61,7 +61,7 @@ const Navbar = () => {
         {/* Right side: Social Icons: Hidden on mobile & tablets, visible ONLY on lg screens */}
         <div className="hidden lg:flex items-center justify-center gap-4 text-2xl">
           <a
-            href="https://www.linkedin.com/in/mian-ahmad-88966431b"
+            href="https://www.linkedin.com/in/muhammad-ahmad-iqbal-88966431b/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-blue-500 transition-colors"
