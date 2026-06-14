@@ -67,6 +67,8 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "Tailwind CSS", "React"],
+    link: "https://portfolio-seven-theta-85.vercel.app/",
+    githubLink: "https://github.com/MianMuhammadAhmadIqbal/portfolio",
   },
   {
     title: "AI Interview Prep App",
