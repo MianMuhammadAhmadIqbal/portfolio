@@ -61,7 +61,7 @@ const Navbar = () => {
         {/* Right side: Social Icons: Hidden on mobile & tablets, visible ONLY on lg screens */}
         <div className="hidden lg:flex items-center justify-center gap-4 text-2xl">
           <a
-            href="https://www.linkedin.com/in/muhammad-ahmad-iqbal-88966431b/"
+            href="https://www.linkedin.com/in/muhammad-ahmad-iqbal-88966431b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-blue-500 transition-colors"
